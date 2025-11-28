@@ -208,3 +208,6 @@ __marimo__/
 
 # destination dataset
 **/destination/
+
+# backup files
+**.bk
